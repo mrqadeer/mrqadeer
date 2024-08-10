@@ -14,12 +14,12 @@
  
  🔭 I’m currently working on **Python Library | Hugging Face Projects**
  
- 🌱 I’m currently learning **Data Analysis,Data Science**
+ 🌱 I’m currently learning **Data Analysis,Data Science,Machine Learning**
 
 💬 Ask me about **Data Analysis, Data Science,Machine Learning and much More**
 
  </div>
- 
+
 <div align="center"> 
   <a href="mailto:mrqadeer1231122@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -27,6 +27,11 @@
   <a href="https://www.linkedin.com/in/qadeer-ahmad-3499a4205/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  
+  <!-- <a href="https://wa.me/92xxxxxxxxxx" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a> -->
+
   <a href="https://github.com/mrqadeer" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
@@ -40,7 +45,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,flask,sklearn,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,flask,sklearn,tensorflow,selenium" />
   <br>
     <img src="https://skillicons.dev/icons?i=linux,vscode,pycharm,github,git,docker,anaconda" />
 </div>
@@ -52,7 +57,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mradeer/mrqadeer/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mrqadeer/mrqadeer/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -62,11 +67,11 @@
 
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Statistics ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=mrqadeer&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mrqadeer&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=368 src="https://github-readme-stats.vercel.app/api?username=mrqadeer&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrqadeer&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
