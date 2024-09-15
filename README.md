@@ -6,17 +6,17 @@
 </h1>
 
 
-<h3 align="center">A Passionate Data Scientist</h3>
+<h3 align="center">A Passionate Data Scientist, Machine Learning Enthusiast, AI Practitioner</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Python Library | Hugging Face Projects**
+ 🔭 I’m currently working on **GenAI Project | Hugging Face Projects**
  
- 🌱 I’m currently learning **Data Analysis,Data Science,Machine Learning**
+ 🌱 I’m currently learning **Data Analysis,Data Science,Machine Learning,GenAI**
 
-💬 Ask me about **Data Analysis, Data Science,Machine Learning and much More**
+💬 Ask me about **Data Analysis, Data Science,Machine Learning,GenAI and much More**
 
  </div>
 
